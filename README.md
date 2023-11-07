@@ -12,4 +12,4 @@ Any questions, please get in touch with Owain via [https://twitter.com/owaincode
 
 ## Links
 Please use the format - filename - link to website
-- owaincodes.png / [https://owain.codes](https://owain.codes)
+- owaincodeslogo.png / [https://owain.codes](https://owain.codes)

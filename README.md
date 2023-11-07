@@ -14,4 +14,5 @@ Any questions, please get in touch with Owain via [https://twitter.com/owaincode
 Please use the format - filename - link to website
 - owaincodeslogo.png / [https://owain.codes](https://owain.codes)
 - accessibility-reporter.png / [https://www.accessibilityreporter.com/](https://www.accessibilityreporter.com/)
+- owainjonesdev_logo_black.png / owainjonesdev_logo_white.png / [https://owainjones.dev/](https://owainjones.dev/)
 - UmbraCymru_logo.png / [https://www.meetup.com/UmbraCymru/](https://www.meetup.com/UmbraCymru/)
